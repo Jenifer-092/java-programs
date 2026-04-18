@@ -10,7 +10,7 @@
 #StringOperation output:https://github.com/Jenifer-092/java-programs/blob/main/StringOperation_output.png
 #SubList output:https://github.com/Jenifer-092/java-programs/blob/main/SubListExample.png
 #SwapElement output:https://github.com/Jenifer-092/java-programs/blob/main/SwapElement_output.png
-#checkColor output:
+#checkColor output:https://github.com/Jenifer-092/java-programs/blob/main/checkcolor_output.png
 
 
 
