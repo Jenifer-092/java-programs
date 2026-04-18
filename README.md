@@ -4,8 +4,8 @@
 #IteratorFromSecond output:https://github.com/Jenifer-092/java-programs/blob/main/IteraterFromSecond_output.png
 #Listoperations output:https://github.com/Jenifer-092/java-programs/blob/main/Listoperation_output.png
 #Removecolor output:https://github.com/Jenifer-092/java-programs/blob/main/RemoveColor_output.png
-#RemoveNth output:
-
+#RemoveNth output:https://github.com/Jenifer-092/java-programs/blob/main/RemoveNth_output.png
+#ReverseIterator output:
 
 
 
