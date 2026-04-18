@@ -9,7 +9,9 @@
 #SortColor output:https://github.com/Jenifer-092/java-programs/blob/main/SortColors_output.png
 #StringOperation output:https://github.com/Jenifer-092/java-programs/blob/main/StringOperation_output.png
 #SubList output:https://github.com/Jenifer-092/java-programs/blob/main/SubListExample.png
-#SwapElement output:
+#SwapElement output:https://github.com/Jenifer-092/java-programs/blob/main/SwapElement_output.png
+#checkColor output:
+
 
 
 
