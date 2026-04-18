@@ -6,8 +6,8 @@
 #Removecolor output:https://github.com/Jenifer-092/java-programs/blob/main/RemoveColor_output.png
 #RemoveNth output:https://github.com/Jenifer-092/java-programs/blob/main/RemoveNth_output.png
 #ReverseIterator output:https://github.com/Jenifer-092/java-programs/blob/main/Reverseiterator_output.png
-#SortColor output:
-
+#SortColor output:https://github.com/Jenifer-092/java-programs/blob/main/SortColors_output.png
+#StringOperation output:
 
 
 
