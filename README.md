@@ -12,7 +12,9 @@
 #SwapElement output:https://github.com/Jenifer-092/java-programs/blob/main/SwapElement_output.png
 #checkColor output:https://github.com/Jenifer-092/java-programs/blob/main/checkcolor_output.png
 #CMYTTabs output:https://github.com/Jenifer-092/java-programs/blob/main/CMYTabs_output.png
-#ColorTabs output:
+#ColorTabs output:https://github.com/Jenifer-092/java-programs/blob/main/ColorTabs_output.png
+#CountryCaptial:
+
 
 
 
