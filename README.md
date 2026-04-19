@@ -13,7 +13,9 @@
 #checkColor output:https://github.com/Jenifer-092/java-programs/blob/main/checkcolor_output.png
 #CMYTTabs output:https://github.com/Jenifer-092/java-programs/blob/main/CMYTabs_output.png
 #ColorTabs output:https://github.com/Jenifer-092/java-programs/blob/main/ColorTabs_output.png
-#CountryCaptial:
+#CountryCaptial output:https://github.com/Jenifer-092/java-programs/blob/main/ContryCaptial_output.png
+#CountryList output: 
+
 
 
 
