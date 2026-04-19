@@ -31,7 +31,7 @@
 #Q7 output:https://github.com/Jenifer-092/java-programs/blob/main/Q7_output.png
 #Q8 output:https://github.com/Jenifer-092/java-programs/blob/main/Q8_output.png
 #Q9 output:https://github.com/Jenifer-092/java-programs/blob/main/Q9_output.png
-#Q10 output:
+#Q10 output:https://github.com/Jenifer-092/java-programs/blob/main/Q10_output.png
 
 
 
