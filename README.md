@@ -19,7 +19,9 @@
 #ImageButton output:https://github.com/Jenifer-092/java-programs/blob/main/ImageButton_output.png
 #CountryButton output:https://github.com/Jenifer-092/java-programs/blob/main/CountryButton_output.png
 #Performance output:https://github.com/Jenifer-092/java-programs/blob/main/PerformanceTest.png
-#StringExercises output:
+#StringExercises1 output:https://github.com/Jenifer-092/java-programs/blob/main/StringExercise1.png
+#StringExercise2 output:
+
 
 
 
