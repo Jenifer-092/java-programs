@@ -26,7 +26,9 @@
 #Q2 output:https://github.com/Jenifer-092/java-programs/blob/main/Q2_output.png
 #Q3 output:https://github.com/Jenifer-092/java-programs/blob/main/Q3_output.png
 #Q4 output:https://github.com/Jenifer-092/java-programs/blob/main/Q4_output.png
-#Q5 output:
+#Q5 output:https://github.com/Jenifer-092/java-programs/blob/main/O5_output.png
+#Q6 output:
+
 
 
 
