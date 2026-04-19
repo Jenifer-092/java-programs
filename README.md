@@ -22,7 +22,9 @@
 #StringExercises1 output:https://github.com/Jenifer-092/java-programs/blob/main/StringExercise1.png
 #StringExercise2 output:https://github.com/Jenifer-092/java-programs/blob/main/StringExercise2_output.png
 #StringOperation output:https://github.com/Jenifer-092/java-programs/blob/main/StringOperation_output.png
-#Q1 output:
+#Q1 output:https://github.com/Jenifer-092/java-programs/blob/main/Q1_output.png
+#Q2 output:
+
 
 
 
